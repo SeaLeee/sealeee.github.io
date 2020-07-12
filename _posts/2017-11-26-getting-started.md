@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Getting Started with Sleek
-featured-img: sleek
+title: Inside  
+featured-img: inside1
 mathjax: true
 ---
 
-# Getting started
+# Inside  
 
-[GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
+[inside](https://pages.github.com) can automatically generate and serve the website for you.
 Let's say you have a username/organisation `my-org` and project `my-proj`; if you locate Jekyll source under `blog` folder of master branch in your repo `github.com/my-org/my-proj`, the website will be served on `my-org.github.io/my-proj`.
 
 1. Just download or fork and clone the source from [github.com/janczizikow/sleek](https://github.com/janczizikow/sleek/).
